@@ -48,20 +48,21 @@ from telegram.ext import MessageHandler, Filters
 
 
 #Store all messages as 'message'
-updates = bot.get_updates()
-for u in updates:
-    message = u.message.text
-
+while True:
+    updates = bot.get_updates()
+    print(updates)
+    print("cp")
+    # for u in updates:
+    #     message = u.message.text
+    #     print(message)
 
 #Function that does NLP
 def text_prepare(message):
-    #remove punctuation
-    punctuation = str.maketrans('', '', string.punctuation)
-    stripped = [w.translate(punctuation) for w in message]
+    message = message.translate(string.punctuation)
 
     #tokenize
     tokenizer = RegexpTokenizer(r'\w+')
-    tokenized_list = (tokenizer.tokenize(stripped))
+    tokenized_list = (tokenizer.tokenize(message))
 
     #remove stopwords
     stopWords = set(stopwords.words('english'))
