@@ -1,6 +1,10 @@
 words,reply
-card arrive,Your card should take one to two weeks to arrive from the date of application.
-get card,Your card should take one to two weeks to arrive from the date of application.
+what is your name?,You can call me Yoyo! Nice to meet you!
+okay,That's great! Anything else I can help?
+no,Alright.
+card arrive,Your card should take one to two weeks to arrive from the date of application. Please contact our Customer Support Team at customer@you.co if you have not received your YouTrip card after 14 days of account approval.
+get card,Your card should take one to two weeks to arrive from the date of application. Please contact our Customer Support Team at customer@you.co if you have not received your YouTrip card after 14 days of account approval.
+how long will my card take to be delivered,Your card should take one to two weeks to arrive from the date of application. Please contact our Customer Support Team at customer@you.co if you have not received your YouTrip card after 14 days of account approval.
 hello,Hi there! How are you?
 hi,Hi there! How are you?
 hey,Hi there! How are you?
@@ -28,3 +32,218 @@ western australia driving,Hey I know you can't wait for your road trip but do re
 western australia road trip,Oh yeah we just might have a guide for that! Here you go : https://www.you.co/sg/blog/western-australia-road-trip-outback-wool-wagon-pathway/
 western australia southwest,Ready for your road trip? Our guide will prep you up for that: https://www.you.co/sg/blog/western-australia-road-trip-outback-wool-wagon-pathway/
 australia pink lake,Going to the Pink Lake? Consider this itinerary by our community member! https://www.you.co/sg/blog/western-australia-road-trip-outback-wool-wagon-pathway/
+simplygo,"Thanks for letting us know your issue.
+Note that when you tap your YouTrip card on public trains and buses, your fare will not be reflected immediately. Instead it will be presented as a lump sum either;
+1. Every 5 days, or;
+2. When total fares exceed S$15
+May I suggest if you create an account with _https://simplygo.transitlink.com.sg/Account/SignIn,_ and link your YouTrip card to view the charge of (amount) posted?
+With the SimplyGo app, you will be able to track the details of your rides on public transport.
+If there are any discrepancies in your travel transactions or billings, you may submit claims for the travel transactions of the cards that are linked to your SimplyGo account via the “My Claims” page on the TransitLisimplygo nk SimplyGo Portal or TL SimplyGo mobile app."
+unauthorised transaction,"We are sorry to hear of the unpleasant experience.
+Given the situation, please be advised to lock your card via YouTrip app if necessary, and place an order for a replacement card within the YouTrip application.
+Please follow the instructions below to block your card and request for a new replacement card.
+1. Login to YouTrip app
+2. Click on the icon “CARD”
+3. Click on the swipe button “ACTIVE” and it will change to “LOCKED”
+4. Click on the swipe button again to unlock
+5. Click on the “Order Card” to purchase a new replacement card
+6. Once the purchase of the new card is made, the old card will be suspended
+permanently."
+tax refund,"You would usually be given an option on how you would like the amount to be refunded back to you. It could be cash, cheque, credit card or the card used for purchase.
+In the event a prepaid debit Mastercard can be used to facilitate the tax refund, the YouTrip card can be used.
+However, as different airports worldwide accept different cards, we are not able to advise with certainty that the YouTrip card can be used to process a tax refund at all airports.
+Not to worry though, there would still be other refund options presented to you to choose from.
+Thank you for your support! Please do feel free to reach out to us again should you require any further assistance!"
+account limit,"Your YouTrip wallet can only hold a maximum amount of SGD 3,000 or equivalent inclusive of your pending transactions.
+Hence, this pending transaction has to be cleared and completed by the merchant’s end, which tentatively takes up to 8 days, before you are able to top up again
+You may also refer to the link below for your reference.
+https://support.you.co/hc/en-us/articles/360000608274-Is-there-any-daily-transaction-limit-using-Y ouTrip-card-
+Hope it helps, and have a great day ahead!"
+top up limit,"Your YouTrip wallet can only hold a maximum amount of SGD 3,000 or equivalent inclusive of your pending transactions.
+Hence, this pending transaction has to be cleared and completed by the merchant’s end, which tentatively takes up to 8 days, before you are able to top up again
+You may also refer to the link below for your reference.
+https://support.you.co/hc/en-us/articles/360000608274-Is-there-any-daily-transaction-limit-using-Y ouTrip-card-
+Hope it helps, and have a great day ahead!"
+transfer funds,"Currently, fund transfers is not supported the YouTrip application.
+However, you can use the YouTrip card at any Mastercard® acceptance point in Singapore and worldwide, online or in-store. Alternatively, the YouTrip card can be used for public transportation.
+Hope it helps, and have a great day ahead!"
+how do I exchange the 140 currencies?,"In fact, <<insert currency>> is part of the 140+ YouTrip currencies that you can also pay with no transaction fees, at wholesale exchange rates!
+You can use YouTrip card to make purchases without doing any exchange in app, as it will auto exchange upon transaction at no fees. Please refer to_ Mastercard calculator_ to calculate the no-fee wholesale exchange rates. Do note to input “0” in the ‘Bank Fee’ field.
+Meanwhile, <<insert currency>> is yet to be supported for our in-app exchange functions like the current 10 currencies we are offering.
+We are definitely looking to explore more options in the future, to support more currencies for in-app exchange including the currencies you mentioned!
+You may refer to the attached to understand more about our currencies exchange. Hope this helps! Wishing you a great week ahead!"
+replace card,"Please follow the instruction below to block your lost card and request for a new replacement card.
+1. Login to YouTrip app
+2. Click on the icon “CARD”
+3. Click on the swipe button “ACTIVE” and it will change to “LOCKED”
+4. Click on the swipe button again to unlock
+5. Click on the “Order Card” to purchase a new replacement card
+6. Once the purchase of the new card is made, the old card will be suspended permanently."
+overseas withdrawal ATM,"You are able to withdraw from overseas ATM that labelled with either Mastercard®, Maestro® or Cirrus® logo using your YouTrip card.
+Insert your YouTrip card into the ATM machine and key in your YouTrip app login PIN which is also your ATM PIN to withdraw.. When you are at the ATM, please select your savings account instead of the current account option.
+Also do note that there is a SGD5 or equivalent withdrawal fee for each overseas ATM withdrawal.
+For ATM withdrawal in any of the 10 currencies that stored in your multi-currency wallet (SGD, USD, EUR, GBP, JPY, HKD, AUD, NZD, CHF, and SEK), the fee of SGD5 will be charged in the equivalent transaction currency using our wholesale exchange rate.
+For ATM withdrawal in all other supported foreign currencies, the fee of SGD5 will be charged in SGD currency. Similar to any purchase transaction, ATM withdrawal in these currencies will be converted and deducted in SGD by default and followed by SmartExchangeTM where applicable.
+Please also take note that additional charges may be applied by overseas local bank for ATM withdrawal."
+pending transaction,"A Pending transaction is an authorised payment but still awaiting confirmation by Mastercard. All newly made transactions will appear as “Pending”.
+Typically, when a successful transaction appears as “Pending”, the funds are held until Mastercard has given the confirmation to clear the transaction. This will take a maximum of 7 days from your date of purchase to be confirmed, and by then we will release the funds via Mastercard to the merchant which you made your purchase with.
+A declined transaction could also appear as “Pending”. When this happens, the transaction will not be cleared by Mastercard and the amount will be reversed back to your YouTrip account within 7 days.
+In some rare cases, we may receive confirmation of Pending transactions only after 7 days. In such cases, the original transaction will be marked as expired, followed by a new transaction record with the confirmed transaction amount. You can also reach out to our support team for further clarification if necessary.
+For transactions made outside the 10 stored currencies in your YouTrip account, the exchange rate may change slightly after the transaction is confirmed. You can refer to t_ his article_ to find out more."
+how do I login?,"We are excited as you are!
+
+Please refer to the link below for your reference.
+https://support.you.co/hc/en-us/articles/360012376633-How-to-log-in-to-YouTrip-app-
+
+Alternatively, if you have no access to your registered mobile number, you may also log in via your email address. Please follow the steps below:
+1. Select 'Get Started' button
+2. Key in your registered mobile number
+3. Select 'Log in with email' button
+4. Go your email inbox/spam to retrieve the email 5. Select 'Log in' button
+6. Will pop-up in chrome/safari and select 'Accept' 7. Enter your pin no to the YouTrip app"
+reset my pin,"You can reset your login PIN by going to your YouTrip app.
+Simply click on “Forget PIN” after entering the PIN page. Enter your Y-number upon prompt which is the serial number located at the front bottom left side of your YouTrip card.
+You will then receive a reset link in your registered email address and can then enter your new login PIN.
+Hope it helps, and have a great day ahead!"
+axs payment,"The YouTrip card is a multi-currency wallet intended to enhance your travel experience. The card itself is not designed to facilitate payments for telecommunications, utilities and insurance etc
+These services made available on AXS do not highlight the true features of the YouTrip card.
+In addition, the instances of incorrect usage of the YouTrip card via AXS has led to users exceeding their account limits.
+As a result, when our users wish to travel, they are not able to use the YouTrip card to facilitate their travel expenditure. As such, all payments with AXS will be disabled as of 23/11/18.
+As an alternative, you are able to facilitate AXS payments using your credit or debit card.
+We hope you continue to enjoy using your YouTrip card!"
+mcc code,"The YouTrip card is a multi-currency wallet intended to enhance your travel experience. The card itself is not designed to facilitate payments for telecommunications, utilities and insurance, and making donations, etc.
+Transferring funds for donation/charitable purposes does not highlight the true features of the YouTrip card.
+As such, all payments relatable to donations and charity has been disabled as of 18th September 2019.
+You may wish to use an alternative option (Debit/Credit card) to facilitate such transactions.
+We deeply regret this inconvenience, and we do hope you continue to enjoy using the YouTrip card!
+Happy YouTrippin'!"
+youtrip for applepay,"Payments using YouTrip card will not be supported on websites or online merchants that require mandatory 3-Domain Secure (3DS) authentication. 3DS payments are disabled on YouTrip cards by default to better cater to the use of YouTrip cards for payments overseas.
+The YouTrip card is also not supported to make payments/top ups into another PrePaid platforms such as ApplePay, GrabPay, Singtel Dash, etc.
+To learn more, please refer to the link below for your reference.
+https://support.you.co/hc/en-us/articles/360021352893-What-are-some-platforms-that-cannot-acce pt-payments-with-YouTrip-
+Hope this helps!"
+youtrip for grabpay,"Payments using YouTrip card will not be supported on websites or online merchants that require mandatory 3-Domain Secure (3DS) authentication. 3DS payments are disabled on YouTrip cards by default to better cater to the use of YouTrip cards for payments overseas.
+The YouTrip card is also not supported to make payments/top ups into another PrePaid platforms such as ApplePay, GrabPay, Singtel Dash, etc.
+To learn more, please refer to the link below for your reference.
+https://support.you.co/hc/en-us/articles/360021352893-What-are-some-platforms-that-cannot-acce pt-payments-with-YouTrip-
+Hope this helps!"
+youtrip for samsungpay,"Payments using YouTrip card will not be supported on websites or online merchants that require mandatory 3-Domain Secure (3DS) authentication. 3DS payments are disabled on YouTrip cards by default to better cater to the use of YouTrip cards for payments overseas.
+The YouTrip card is also not supported to make payments/top ups into another PrePaid platforms such as ApplePay, GrabPay, Singtel Dash, etc.
+To learn more, please refer to the link below for your reference.
+https://support.you.co/hc/en-us/articles/360021352893-What-are-some-platforms-that-cannot-acce pt-payments-with-YouTrip-
+Hope this helps!"
+activate card,"Let's do it together step by step. Before that, please ensure that you below settings on your Safari/Chrome setting is enabled and reinstall the app.
+Apple:
+1. Setting > Safari > Block Pop-ups
+2. Setting > Safari > Advanced > JavaScript > Enable it
+Android:
+1. Chrome > Settings > Site Settings > Pop-up and redirect 2 .Chrome > Settings > Site settings > JavaScript > Enable it
+Once you have done the above part, please follow the steps below:
+1. Click on 'My Card Arrived'
+2. Insert the Y-Number
+3. Insert your email address
+4. Access your email from your mobile device > Search for 'Card Activation'
+5. Select 'Activate Card' _or press and hold the Activate button on the email and copy & paste the link to your web browser
+6. It will prompt to Safari/Chrome browser > open YouTrip app 7. Will prompt set PIN number
+8. Completed
+Alternatively, please use an alternate email address to see if this works out for you. Please do let us know of the outcome and attached the screenshot if the error still persists."
+what is youtrip?,"YouTrip is a mobile financial platform for your travel needs. We offer a multi-currency mobile wallet with a contactless Mastercard® to make payments worldwide without having to incur any fees. 
+
+With YouTrip, you do not have to pay hefty fees tied to using bank cards or spend extra time changing currencies for overseas purchases. YouTrip supports payments in over 150 different currencies worldwide with no fees and at the best exchange rates, of which 10 selected currencies are available for in-app exchange so you can store and lock down a good rate whenever it's available.
+
+You can register a YouTrip account and receive a YouTrip Mastercard® for free in just 3 minutes. Simply download the YouTrip app to sign-up.
+Watch this video to find out more: https://youtu.be/u0_GGKJPHCQ"
+how does youtrip work?,"YouTrip is a mobile financial platform for your travel needs. We offer a multi-currency mobile wallet with a contactless Mastercard® to make payments worldwide without having to incur any fees. 
+
+With YouTrip, you do not have to pay hefty fees tied to using bank cards or spend extra time changing currencies for overseas purchases. YouTrip supports payments in over 150 different currencies worldwide with no fees and at the best exchange rates, of which 10 selected currencies are available for in-app exchange so you can store and lock down a good rate whenever it's available.
+
+You can register a YouTrip account and receive a YouTrip Mastercard® for free in just 3 minutes. Simply download the YouTrip app to sign-up.
+Watch this video to find out more: https://youtu.be/u0_GGKJPHCQ"
+Where is my money stored?,"Your YouTrip funds will be held with the same fund protection measures in line with industry best practices like before. This means that your money will be stored in a separate designated bank account, separate from YouTrip’s own company bank accounts. Hence you can rest assured that your funds in YouTrip will not be compromised in any scenario.
+
+The safety of your money is of our utmost priority as a Mastercard licensed issuer and Stored Value Facility Holder of YouTrip. This means that all your card transactions are processed and protected by Mastercard rules and standards and that we operate under the prevailing payment regulations of the Monetary Authority of Singapore."
+How many currencies are supported?,YouTrip supports purchases in over 150 currencies worldwide with no additional fees at highly competitive wholesale exchange rates. Follow the link for a full list of currencies. https://support.you.co/hc/en-us/articles/360000605034-How-many-currencies-are-supported-on-YouTrip-
+what is the exchange rate and fees offered by Youtrip?,"YouTrip offers mid-market exchange rate across 150+ currencies worldwide with no additional fees or markup. It is the foreign exchange rate used by banks, large corporations and public & private institutions for large volume currency transaction. In the simplest term, it is the real-time exchange rate that you see on Google search, XE.com or other financial sites."
+Is Youtrip a ezlink card?,"No. YouTrip card is not a CEPAS-compliant ez-link card. It is a prepaid Mastercard.
+
+However, you can use the YouTrip card for public transport by activating the Mastercard Account-Based Ticketing (ABT) function."
+How do you make money?,"Whenever you spend with your YouTrip card, we take a small commission of each purchase from the merchant through Mastercard as our revenue. We do not take any commission or mark-up from our user when you make a purchase with the YouTrip card nor when you are changing currencies at wholesale exchange rate in the YouTrip app."
+Is there a requirement for the card?,Anyone aged 15 years and above in Singapore with a valid NRIC or FIN can apply for YouTrip. There is no income requirement.
+wholesale exchange rate,"It is the foreign exchange rate used by banks, large corporations and public & private institutions for large volume currency transaction. In the simplest term, it is the real-time exchange rate that is very close to published rates on Google, XE.com and other financial sites. Read this for more information : https://support.you.co/hc/en-us/articles/360000605014-What-is-wholesale-exchange-rate-"
+How does YouTrip currency exchange work?,"You can lock in currency exchange rates ahead of your spending for 10 different currencies and store them in your multi-currency wallet at any time with no fee and no markup.
+
+You can use these pre-exchanged wallet currencies to purchase items in the same selected currencies at the exact amount indicated as the selling price. For example, if you have exchanged 10,000 JPY (Japanese Yen) and want to make a purchase costing 1,000 JPY, you simply just need to pay 1,000 JPY with 9,000 JPY left and do not have to incur any other fees.
+
+Even if you have not exchanged the currency beforehand, YouTrip will apply the best exchange rate rates for you. YouTrip also supports purchases of more than 150 different currencies at highly competitive wholesale exchange rate rates with no fee and no markup.
+"
+where can I use the YouTrip card?,"You can use the YouTrip card at any Mastercard® acceptance point in Singapore and worldwide, online or in-store. You can also perform overseas ATM withdrawals from any Mastercard®, Maestro® or Cirrus® ATM located overseas (i.e. outside Singapore) with the YouTrip card."
+why is my account not approved yet?,"We normally take 1-2 business days to process your application, if all required documents are submitted. However given the current high volume of demand, we kindly ask for your understanding to expect a delay of up to 2 weeks in processing your application. Rest assured that we are now processing your application at full speed and we will notify you by push notification once we have processed your application. Thank you for your patience!"
+how can I get the Youtrip card?,"Download and register your account via the YouTrip app from App Store or Google Play. Once you have downloaded the YouTrip app, you will be asked to submit your application with your identity information which typically takes around 3 minutes to complete.
+
+After you have submitted your application, we will further process your application. We normally take 1-2 business days to process your application, however given the current high volume of demand, we kindly ask for your understanding to expect a delay of up to 2 weeks in processing your application. Rest assured that we are now processing your application at full speed and we will notify you once we have processed your application.
+
+Once your application is processed, you will receive your YouTrip card in about 5-8 business days as we mail to your registered address. Then follow the instruction on the app to activate your account to start your YouTrip experience!"
+Can GrabPay Mastercard be used for top-ups to YouTrip?,"No, GrabPay Mastercards are no longer supported for top-ups to YouTrip."
+Can I use an overseas bank card in another currency to top up my YouTrip account?,"Yes, you can use any Mastercard or VISA supported overseas bank card that allows overseas transaction to top up the account. However, we do not recommend for you to do so unless you do not have a local Singapore credit or debit card. Otherwise, you may be paying for fees and mark-ups by your overseas bank."
+How do I top up my YouTrip account?,Step by step! Visit here : https://support.you.co/hc/en-us/articles/360003313633-How-do-I-top-up-my-YouTrip-account-
+Can I transfer my account balance to another YouTrip account?,"No, we do not currently support money transfer between YouTrip accounts. Please stay tuned for our future development to provide services that you want!"
+How do I check my account transactions?,"Upon every transaction made via your account, you will receive real-time transaction details and notification from your YouTrip app. With the app, you can also check your account transaction history."
+What is the minimum and maximum top up for my YouTrip account?,"A minimum top-up value of SGD$20 is required to add money to your YouTrip account. This can can done simply through your YouTrip app. 
+
+At any point of time, your YouTrip account can hold a maximum of SGD$3,000. However, you can make a maximum transaction value of SGD$6,000 per day. (i.e., spend $3,000, top-up another $3,000 within the same day)"
+Do I need to maintain any minimum amount in my account?,You're not required to maintain a minimum balance to maintain your YouTrip account. You may fund your account for payments with your YouTrip card as and when required.
+What is SmartExchange?,Find out about SmartExchange here : https://support.you.co/hc/en-us/articles/360000597513-What-is-SmartExchange-
+Why is my transaction shown as Pending?,"A Pending transaction is an authorised payment but still awaiting confirmation by Mastercard. All newly made transactions will appear as “Pending”.
+
+Typically, when a successful transaction appears as “Pending”, the funds are held until Mastercard has given the confirmation to clear the transaction. This will take a maximum of 8 days from your date of purchase to be confirmed, and by then we will release the funds via Mastercard to the merchant which you made your purchase with.
+
+A declined transaction could also appear as “Pending”. When this happens, the transaction will not be cleared by Mastercard and the amount will be reversed back to your YouTrip account within 8 days.
+
+In some rare cases, we may receive confirmation of Pending transactions only after 8 days. In such cases, the original transaction will be marked as expired, followed by a new transaction record with the confirmed transaction amount. You can also reach out to our support team for further clarification if necessary."
+mobile payment,"Currently we do not support payment via our YouTrip app directly. To support your global purchase in any locations worldwide, we recommend paying with your YouTrip Mastercard® that linked up with YouTrip app automatically so you can spend anytime, anywhere you want."
+Which currency wallet will be deducted for my overseas transactions?,"Your YouTrip account is set to pay in the local merchant currency from your currency wallet. If the local currency is one of the 10 wallet currencies, the system will deduct from that currency wallet. Otherwise, the exchange of the currency will be carried out as you purchase."
+Can my YouTrip card be used for public transport?,"Yes, your YouTrip card’s public transit payment function is automatically activated for contactless fare payments on public buses and trains. Read more here : https://support.you.co/hc/en-us/articles/360000608294-Can-my-YouTrip-card-be-used-for-public-transport-"
+Do I need to activate my YouTrip card for overseas transactions?,"No, you do not need to activate your YouTrip card for overseas transaction separately."
+Is there any daily transaction limit using YouTrip card?,"You are able to top-up to a limit of SGD$3,000 in your account with no limit on the number of top-ups you may perform during the day. The total daily spending limit you can spend is SGD$6,000 with a monthly top-up limit of SGD $30,000 and SGD $100,000 yearly limit. "
+What happens if my transaction currency wallet balance is insufficient for withdrawal?,"When there is insufficient balance in the transaction currency wallet to cover the total amount including fees for ATM withdrawal in any of the 10 currencies that stored in your multi-currency wallet (SGD, USD, EUR, GBP, JPY, HKD, AUD, NZD, CHF, and SEK), there will be auto deduction from other wallets in the order indicated above to complete the entire transaction.
+
+Where there is insufficient balance in SGD to cover the total amount including fees for ATM withdrawal in all other supported foreign currencies, there will be auto deduction from other wallets to complete the entire transaction in the order indicated above to complete the entire transaction.
+
+However if the total YouTrip account balance for all currency wallets is insufficient, then there will be a decline in your withdrawal."
+Is there any withdrawal charge?,"Yes, there is a SGD5 or equivalent withdrawal fee for each overseas ATM withdrawal.
+
+For ATM withdrawal in any of the 10 currencies that stored in your multi-currency wallet (SGD, USD, EUR, GBP, JPY, HKD, AUD, NZD, CHF, and SEK), the fee of SGD5 will be charged in the equivalent transaction currency using our wholesale exchange rate.
+
+For ATM withdrawal in all other supported foreign currencies, the fee of SGD5 will be charged in SGD currency. Similar to any purchase transaction, ATM withdrawal in these currencies will be converted and deducted in SGD by default and followed by SmartExchange™ where applicable.
+
+Please also take note that additional charges may be applied by overseas local bank for ATM withdrawal."
+Can I withdraw money from local and overseas ATM?,You can withdraw from overseas ATM but not from local Singapore ATM. Visit here for more details : https://support.you.co/hc/en-us/articles/360003288834-Can-I-withdraw-money-from-local-and-overseas-ATM-
+Is there any annual fee for my YouTrip card?,"No, there is no annual fee required for your YouTrip card. You may refer to here for the list of charges related to your YouTrip account."
+Is there any processing fee when I top up my account?,"No, YouTrip is completely FREE to top up whether using your local credit or debit card."
+Is there any fee for ordering a replacement YouTrip card?,"Yes, there will be a fee of SGD$10. You can order the replacement card through the YouTrip app."
+Is there transaction fee for currency exchange?,"No, there is no transaction fee incurred for any currency exchange via YouTrip app."
+Is there any annual fee for my YouTrip card?,"No, there is no annual fee required for your YouTrip card."
+Is there any fee for getting a YouTrip card?,"No, getting a YouTrip card is FREE of charge. Simply download the YouTrip app and register for your YouTrip card in 3 minutes from the app."
+"No, getting a YouTrip card is FREE of charge. Simply download the YouTrip app and register for your YouTrip card in 3 minutes from the app.","In YouTrip, the security of your personal data is our highest priority.
+
+YouTrip is developed with the backbone of a highly secure bank-grade infrastructure platform designed by our cloud platform architects with decades of experiences in banking and technology industries. The creation, transmission and storage of your data is protected with multiple layers of encryption technologies such as Transport Layer Security, Encrypted Token Access System, and SSL certificates. In addition, our cloud infrastructure distributes your data across multiple data centres to ensure its continuous protection and accessibility.
+
+To understand more about our policy on personal data, you can also review our Privacy Policy on the link below: https://www.you.co/en-SG/privacy-policy/"
+Is my YouTrip balance refundable?,"Yes, you may request for a refund in your YouTrip account if you would like to close your account. Please make your request to do so by contacting us at customer@you.co with the title “Account Closure” to do so. Please note that there will be an administrative fee of S$10 to process refunds to your bank account.  
+
+Alternatively, you may use up your remaining funds in any Mastercard accepting merchant as well as for public transportation in Singapore."
+Where can I download the transaction dispute and chargeback form?,You may download the form via the link below and submit the form within 45 days from the date of transaction. https://support.you.co/hc/en-us/articles/360000600173-Where-can-I-download-the-transaction-dispute-and-chargeback-form-
+Lose my mobile phone and card,Please contact our Customer Support Team immediately at support hotline +65 69049334 or email at customer@you.co for assistance in suspending the lost card.  
+I lose my YouTrip card,"Please go to your YouTrip app to temporarily lock your card. Once you have purchased the replacement card, we will suspend your lost card permanently.  "
+unauthorized access to my YouTrip account?,Please lock your card using the YouTrip app and contact our Customer Support Team via our Support Hotline +65 69049334 immediately.
+How do I change my PIN?,"Go to the YouTrip app and select ‘Change PIN’ under Settings. Enter your current PIN upon prompt to set your new login PIN. If you have forgotten your PIN, visit the link below for instruction to reset your pin. https://support.you.co/hc/en-us/articles/360000599913-What-happened-if-I-forget-my-login-PIN-"
+I cannot login to my YouTrip account,"Please conduct the following checks with your YouTrip app:
+Is your phone properly connected to the Internet?
+Have you entered your PIN correctly?
+If you have forgotten your PIN, please reset the PIN and try to login again
+If the app is functioning properly
+If not, please restart your phone and try to login to your account again
+
+If you have performed the above steps but still cannot login, please delete and reinstall the YouTrip app then login again. If the problem persists, please contact our Customer Support Team at customer@you.co."
+forget my login PIN?,You can reset your login PIN by going to your YouTrip app. Click on “Forget PIN” after entering the PIN page. Enter your Y-number upon prompt which is the serial number located at the front bottom left side of your YouTrip card. You will then receive a reset link in your registered email address and can then enter your new login PIN.  
+Can I login to multiple devices with my YouTrip account at the same time?,"No, you cannot login to the same account using multiple devices at the same time. Due to security reasons, you will automatically be logged out from the other device once you have logged into a new device."
